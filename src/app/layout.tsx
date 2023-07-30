@@ -23,6 +23,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 { href: "/about", name: "About" },
                 { href: "/contact", name: "Contact" },
                 { href: "/blog", name: "Blog" },
+                { href: "/cari", name: "Cari" },
               ]}
             ></Navbar>
             {children}
